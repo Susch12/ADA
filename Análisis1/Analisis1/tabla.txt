@@ -1,0 +1,67 @@
+[!] El tiempo de ejecución de quicksort con una lista ascendente con tamaño de 10 fue de: 1.811981201171875e-05, segundos
+
+[!] El tiempo de ejecución de burbuja con una lista ascendente con tamaño de 10 fue de: 5.7220458984375e-06, segundos
+
+[!] El tiempo de ejecución de quicksort con una lista descendente con tamaño de 10 fue de: 5.7220458984375e-06, segundos 
+
+[!] El tiempo de ejecución de burbuja con una lista descendente con tamaño de 10 fue de: 4.5299530029296875e-06, segundos
+
+[!] El tiempo de ejecución de quicksort con una lista random con tamaño de 10 fue de: 7.152557373046875e-06, segundos
+
+[!] El tiempo de ejecución de burbuja con una lista random con tamaño de 10 fue de: 3.814697265625e-06, segundos
+
+ tamaño = 100
+
+[!] El tiempo de ejecución de quicksort con una lista ascendente con tamaño de 100 fue de: 6.151199340820312e-05, segundos
+
+[!] El tiempo de ejecución de burbuja con una lista ascendente con tamaño de 100 fue de: 0.00012087821960449219, segundos
+
+[!] El tiempo de ejecución de quicksort con una lista descendente con tamaño de 100 fue de: 4.8160552978515625e-05, segundos 
+
+[!] El tiempo de ejecución de burbuja con una lista descendente con tamaño de 100 fue de: 0.0002880096435546875, segundos
+
+[!] El tiempo de ejecución de quicksort con una lista random con tamaño de 100 fue de: 7.62939453125e-05, segundos
+
+[!] El tiempo de ejecución de burbuja con una lista random con tamaño de 100 fue de: 0.00020456314086914062, segundos
+
+tamaño 1000:
+
+[!] El tiempo de ejecución de quicksort con una lista ascendente con tamaño de 1000 fue de: 0.0004928112030029297, segundos
+
+[!] El tiempo de ejecución de burbuja con una lista ascendente con tamaño de 1000 fue de: 0.012926340103149414, segundos
+
+[!] El tiempo de ejecución de quicksort con una lista descendente con tamaño de 1000 fue de: 0.0005817413330078125, segundos 
+
+[!] El tiempo de ejecución de burbuja con una lista descendente con tamaño de 1000 fue de: 0.029683828353881836, segundos
+
+[!] El tiempo de ejecución de quicksort con una lista random con tamaño de 1000 fue de: 0.010535955429077148, segundos
+
+[!] El tiempo de ejecución de burbuja con una lista random con tamaño de 1000 fue de: 2.425377368927002, segundos
+
+tamaño 10000:
+[!] El tiempo de ejecución de quicksort con una lista ascendente con tamaño de 10000 fue de: 0.007733821868896484, segundos
+
+[!] El tiempo de ejecución de burbuja con una lista ascendente con tamaño de 10000 fue de: 1.44073486328125, segundos
+
+[!] El tiempo de ejecución de quicksort con una lista descendente con tamaño de 10000 fue de: 0.006435871124267578, segundos 
+
+[!] El tiempo de ejecución de burbuja con una lista descendente con tamaño de 10000 fue de: 3.1967051029205322, segundos
+
+[!] El tiempo de ejecución de quicksort con una lista random con tamaño de 10000 fue de: 0.011089086532592773, segundos
+
+[!] El tiempo de ejecución de burbuja con una lista random con tamaño de 10000 fue de: 2.513603925704956, segundos
+
+tamaño = 100000:
+[!] El tiempo de ejecución de quicksort con una lista ascendente con tamaño de 100000 fue de: 0.07833528518676758, segundos
+
+[!] El tiempo de ejecución de burbuja con una lista ascendente con tamaño de 100000 fue de: 139.73975467681885, segundos
+
+[!] El tiempo de ejecución de quicksort con una lista descendente con tamaño de 100000 fue de: 0.0785212516784668, segundos 
+
+[!] El tiempo de ejecución de burbuja con una lista descendente con tamaño de 100000 fue de: 367.33529019355774, segundos
+
+[!] El tiempo de ejecución de quicksort con una lista random con tamaño de 100000 fue de: 0.22864079475402832, segundos
+
+[!] El tiempo de ejecución de burbuja con una lista random con tamaño de 100000 fue de: 307.5848286151886, segundos
+
+
